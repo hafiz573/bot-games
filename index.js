@@ -14,7 +14,7 @@ client.on('ready', () => {
   client.user.setPresence({
     activity: {
       type: "PLAYING",
-      name: "JP store game bot"
+      name: "game bot"
     },
     status: "idle"
   });
